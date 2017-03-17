@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+
+    <string name="happy_birthday_to_you">Happy Birthday to You!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt">Happy Birthday to YOU!</string>
+</resources>
+
